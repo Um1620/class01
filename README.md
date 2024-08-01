@@ -1,2 +1,2 @@
-# class01
+# class02
 This is my first repository
